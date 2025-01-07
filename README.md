@@ -19,9 +19,7 @@ a = 5, b = 2, c = 1, ab + bc + ca = 17
 a = 5, b = 3, c = 1, ab + bc + ca = 23
 a = 5, b = 3, c = 2, ab + bc + ca = 31
 a = 5, b = 4, c = any, ab = 20 > 15
-a, b, c cannot be positive integer values not listed here.
-Thus, 15 is an idoneal number.
-There were 8 iterations in this proof.
+a, b, c cannot be positive integer values not listed here. Thus, 15 is an idoneal number.
 
 17 (not idoneal)
 
