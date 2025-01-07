@@ -1,7 +1,7 @@
 # Idoneals
 This is a repository of idoneal proofs. An idoneal is a number that cannot be written as ab + bc + ca for a,b,c as positive distinct integers (0<a<b<c). See https://en.wikipedia.org/wiki/Idoneal_number for more!
 
-
+Each file has 10k proofs. Volume 1 is 0-9999; volume 4 is 40000 to 49999.
 
 Proofs go one of two ways:
 
