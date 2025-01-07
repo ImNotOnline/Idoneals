@@ -25,4 +25,4 @@ There were 8 iterations in this proof.
 
 17 (not idoneal)
 
-17 is NOT an idoneal number; 5*2 + 2*1 + 1*5 = 17
+17 is NOT an idoneal number; 5x2 + 2x1 + 1x5 = 17
